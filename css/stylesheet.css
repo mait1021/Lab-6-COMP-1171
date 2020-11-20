@@ -1,0 +1,23 @@
+body {
+    background-color: beige;
+}
+nav {
+    background-color: lightblue;
+}
+    
+nav {
+    text-align: center;
+}
+.note {
+    background-color: beige;
+    width: 100%;
+}
+
+
+
+@media (max-width: 600px) {
+    .note {
+        background-color: green;
+        width: 25%;
+    }
+}
